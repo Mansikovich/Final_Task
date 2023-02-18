@@ -23,11 +23,11 @@ void FillingOutputArray(string[] Input, string[] Output)
         }
     }
 }
-void PrintArray(string[] array)
+void PrintArray(string[] Output)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < Output.Length; i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{Output[i]} ");
     }
     Console.WriteLine();
 }
