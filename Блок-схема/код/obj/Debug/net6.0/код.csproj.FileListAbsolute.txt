@@ -1,0 +1,15 @@
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\bin\Debug\net6.0\код.exe
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\bin\Debug\net6.0\код.deps.json
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\bin\Debug\net6.0\код.runtimeconfig.json
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\bin\Debug\net6.0\код.dll
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\bin\Debug\net6.0\код.pdb
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.csproj.AssemblyReference.cache
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.AssemblyInfoInputs.cache
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.AssemblyInfo.cs
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.csproj.CoreCompileInputs.cache
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.dll
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\refint\код.dll
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.pdb
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\код.genruntimeconfig.cache
+C:\Users\Мансур\Desktop\Новая эра\Финалочка\Блок-схема\код\obj\Debug\net6.0\ref\код.dll
